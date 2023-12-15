@@ -1,7 +1,6 @@
 <h3 align="center">A Curious young developer from India who's hobby is programming and loves learning new skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer-develops&label=Profile%20views&color=0e75b6&style=flat" alt="programmer-develops" /> </p>
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
