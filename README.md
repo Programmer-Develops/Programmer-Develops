@@ -21,4 +21,3 @@
 <p><a href="https://www.buymeacoffee.com/donatepd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/donatepd" /></a><a href="https://ko-fi.com/E1E06QBN0"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/E1E06QBN0" /></a></p><br><br>
 
 [![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmer-develops&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmer-develops&show_icons=true&locale=en&layout=compact" alt="programmer-develops" /></p>
