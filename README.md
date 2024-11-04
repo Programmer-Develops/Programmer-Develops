@@ -17,4 +17,33 @@
 
 </p>
 
+name: Track Installs
+
+on:
+  push:
+    branches:
+      - main
+  release:
+    types:
+      - published
+
+jobs:
+  track-installs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Increment install count
+        run: |
+          count=$(grep -oP '(?<=^install_count: )\d+' install_count.txt || echo 0)
+          echo "install_count: $((count + 1))" > install_count.txt
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add install_count.txt
+          git commit -m "Increment install count"
+          git push origin main
 
