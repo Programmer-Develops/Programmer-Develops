@@ -54,7 +54,7 @@
 ## 🌍 Connect with Me  
 
 <p align="left">
-  <a href="https://www.youtube.com/@ProgrammerDevelopment" target="blank">
+  <a href="https://www.youtube.com/@ProgrammerDevelops" target="blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://discord.gg/Jzk2QEVpDn" target="blank">
