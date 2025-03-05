@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Hey there, I'm Shantanu! 🚀</h1>
+<h1 align="center">👨‍💻 Hey there, I'm Shantanu Pandya! 🚀</h1>
 
 <p align="center">
   <i>A curious young developer who loves building apps, AI, and games! Passionate about learning and creating cool projects. 💡</i>
@@ -13,17 +13,17 @@
 ## 🚀 About Me  
 - 💻 **I love coding & building projects!**  
 - 🧠 **Currently Working On:** `Bajrangi AI` – My own **indigenous AI chatbot model!**  
-- 🎮 **Game Developer** – Working on `Ants IO`, a **multiplayer web game**.  
-- 📱 **App Developer** – Built `Astro Dude`, available on the Play Store!  
+- 🎮 **Game Developer** – Working on `Ants IO`, A **multiplayer web game**.  
+- 📱 **App Developer** – Working on `Bajrangverse`, A **Web app consisting AI chatbot and Video chat** !  
 - 🚀 **Tech Enthusiast** – Love exploring **AI, Web Dev, and Game Development**.  
 
 ---
 
 ## 🌟 Notable Projects  
-📌 **[Astro Dude](https://github.com/Programmer-Develops/astro-dude)** – A space adventure game on Play Store! 🚀  
-📌 **[Trafficy](https://github.com/Programmer-Develops/trafficy)** – A traffic management app using AI. 🚦  
-📌 **[Ants IO](https://github.com/Programmer-Develops/ants-io)** – Multiplayer game with real-time interactions. 🐜  
-📌 **[Bajrangi AI](https://github.com/Programmer-Develops/bajrangi-ai)** – A **100% indigenous AI chatbot model**! 🤖  
+📌 **[Astro Dude](https://github.com/Programmer-Develops/astro-dude)** – A app for space enthusiasts on Play Store! 🚀  
+📌 **[Trafficy](https://github.com/Programmer-Develops/trafficy)** – A traffic management app using python and mysql. 🚦  
+📌 **[Ants IO](https://github.com/Programmer-Develops/ants-io)** – Multiplayer game . 🐜  
+📌 **[Bajrangi AI](https://github.com/Programmer-Develops/bajrangi-ai)** – A **AI chatbot model(UNDER DEVELOPMENT)**! 🤖  
 
 ---
 
