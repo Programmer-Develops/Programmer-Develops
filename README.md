@@ -22,7 +22,7 @@
 ## 🌟 Notable Projects  
 📌 **[Astro Dude](https://github.com/Programmer-Develops/astro-dude)** – A app for space enthusiasts on Play Store! 🚀  
 📌 **[Trafficy](https://github.com/Programmer-Develops/trafficy)** – A traffic management app using python and mysql. 🚦  
-📌 **[Ants IO](https://github.com/Programmer-Develops/ants-io)** – Multiplayer game . 🐜  
+📌 **[Antivus IO](https://github.com/Programmer-Develops/ants-io)** – Multiplayer game . 🐜  
 📌 **[Bajrangi AI](https://github.com/Programmer-Develops/bajrangi-ai)** – A **AI chatbot model(UNDER DEVELOPMENT)**! 🤖  
 
 ---
