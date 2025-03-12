@@ -46,7 +46,6 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmer-develops&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/>
 </p>
 
 ---
