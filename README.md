@@ -48,6 +48,7 @@
   
   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=programmer-develops&show_icons=true&theme=radical&hide_border=true)
 
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-develops&layout=compact&theme=radical&hide_border=true)
 
   ---
 
