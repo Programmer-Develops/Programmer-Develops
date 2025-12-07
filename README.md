@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Hey there, I'm Shantanu Pandya! 🚀</h1>
 
 <p align="center">
-  <i>A curious young developer who loves building apps, AI, and games! Passionate about learning and creating cool projects. 💡</i>
+  <i>A curious 18 year old developer who loves building apps, AI, and games! Passionate about learning and creating cool projects. 💡</i>
 </p>
 
 <p align="center">
@@ -46,9 +46,7 @@
 ## 📊 GitHub Stats  
 <div align = "center">
   
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=programmer-develops&show_icons=true&theme=radical&hide_border=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-develops&layout=compact&theme=radical&hide_border=true)
+  ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=Programmer-Develops&theme=tokyonight&no-frame=true&margin-w=15&row=1)
 
   ---
 
