@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats  
 <div align = "center">
   
-  ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=Programmer-Develops&theme=tokyonight&no-frame=true&margin-w=15&row=1)
+  ![Shantanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Programmer-Develops&show_icons=true&theme=radical&hide_border=true)
 
   ---
 
